@@ -19,6 +19,34 @@
         "pre": 119,
         "can": 14,
         "img": "0003.jpg"
+    },    
+    {
+        "nom": "Bouquet con Rosas",
+        "mar": "Rosatel",
+        "pre": 174,
+        "can": 15,
+        "img": "0004.jpg"
+    },
+    {
+        "nom": "Caja Pequeña de Tulipanes",
+        "mar": "Rosatel",
+        "pre": 129,
+        "can": 9,
+        "img": "0005.jpg"
+    },
+    {
+        "nom": "Peluche y Llamas de Colores",
+        "mar": "Rosatel",
+        "pre": 194,
+        "can": 12,
+        "img": "0006.jpg"
+    },
+    {
+        "nom": "Caja con Rosas",
+        "mar": "Rosatel",
+        "pre": 179,
+        "can": 24,
+        "img": "0007.jpg"
     }
     
 ]

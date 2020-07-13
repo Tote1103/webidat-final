@@ -1,0 +1,24 @@
+[
+    {
+        "nom": "Caja Negra Grande de Rosas",
+        "mar": "Rosatel",
+        "pre": 249,
+        "can": 40,
+        "img": "0001.jpg"
+    },
+    {
+        "nom": "Ramo de Girasoles",
+        "mar": "Rosatel",
+        "pre": 99,
+        "can": 8,
+        "img": "0002.jpg"
+    },
+    {
+        "nom": "Flores Variadas",
+        "mar": "Rosatel",
+        "pre": 119,
+        "can": 14,
+        "img": "0003.jpg"
+    }
+    
+]
